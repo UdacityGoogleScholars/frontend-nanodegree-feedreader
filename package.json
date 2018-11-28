@@ -1,0 +1,26 @@
+{
+  "name": "frontend-nanodegree-feedreader",
+  "version": "1.0.0",
+  "description": "Create a package.json file for project 4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UdacityGoogleScholars/frontend-nanodegree-feedreader.git"
+  },
+  "keywords": [
+    "json",
+    "udacity"
+  ],
+  "author": "Coding Mommy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UdacityGoogleScholars/frontend-nanodegree-feedreader/issues"
+  },
+  "homepage": "https://github.com/UdacityGoogleScholars/frontend-nanodegree-feedreader#readme",
+  "devDependencies": {
+    "gulp": "^4.0.0"
+  }
+}
